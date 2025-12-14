@@ -245,10 +245,10 @@ This mapping is learned during tokenizer training and **never changes** during i
 ### Vocabulary Trade-off Diagram
 
 ```
-![alt text](image.png)
-
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/165b2e8e-90da-4e66-824d-804c3be5695f" />
 ---
 
+```
 ## 6️⃣ Token IDs vs Meaning (Critical Insight)
 
 Tokens **have no meaning by themselves**.
