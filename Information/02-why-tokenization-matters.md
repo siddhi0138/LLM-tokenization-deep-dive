@@ -1,8 +1,3 @@
-Here is a **deep, technically detailed, GitHub-ready expansion** of **“Why Tokenization Matters”**.
-You can **directly replace** your `docs/02-why-tokenization-matters.md` with the content below.
-
----
-
 # Why Tokenization Matters
 
 Tokenization is not a superficial preprocessing step; it is a **core architectural decision** that profoundly influences how a Large Language Model (LLM) behaves, performs, scales, and generalizes. Every stage of an LLM’s lifecycle — from training to inference and deployment — is affected by how text is tokenized.

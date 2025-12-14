@@ -1,8 +1,3 @@
-Here is a **deep, well-structured, GitHub-ready expansion** of your **Introduction** section.
-You can **directly replace** your current `docs/01-introduction.md` content with this.
-
----
-
 # Introduction
 
 Tokenization is the foundational process through which **raw human language is transformed into a numerical form that Large Language Models (LLMs) can understand and process**. Since LLMs are fundamentally mathematical systems built on neural networks, they cannot interpret text, words, or characters directly. Instead, they operate exclusively on **numerical identifiers known as tokens**.
