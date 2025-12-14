@@ -245,7 +245,8 @@ This mapping is learned during tokenizer training and **never changes** during i
 ### Vocabulary Trade-off Diagram
 
 ```
-<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/165b2e8e-90da-4e66-824d-804c3be5695f" />
+<img width="2816" height="1536" alt="Gemini_Generated_Image_l47uk1l47uk1l47u" src="https://github.com/user-attachments/assets/1b373228-5e4d-4c2e-bd18-5e10e7add6e3" />
+
 ---
 
 ```
