@@ -248,7 +248,7 @@ This mapping is learned during tokenizer training and **never changes** during i
 
 ---
 
-```
+
 ## 6️⃣ Token IDs vs Meaning (Critical Insight)
 
 Tokens **have no meaning by themselves**.
