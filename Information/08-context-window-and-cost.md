@@ -269,5 +269,3 @@ Token-based cost defines:
 
 ---
 
-
-Tell me which one you want next and I’ll continue at this depth.
