@@ -82,10 +82,7 @@ Total                → 2,700 tokens
 
 ## 4️⃣ Minimal Diagram: Sliding Context Window
 
-```
-|-------------------- Context Window --------------------|
-[SYSTEM][USER][ASSISTANT][USER][ASSISTANT][CURRENT INPUT]
-```
+![Sliding Context Window Diagram](../image4.png)
 
 When the window is full:
 
