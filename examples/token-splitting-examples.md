@@ -76,8 +76,5 @@ This is especially important in:
 
 ## Runnable Demonstration
 
-See `token_splitting.py` for a practical demonstration showing how
+See `token-splitting.py` for a practical demonstration showing how
 different words are split into multiple tokens using a GPT-style tokenizer.
-
-
-Just say **“next”** when you’re ready.
