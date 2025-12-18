@@ -59,13 +59,12 @@ Tokenization defines **what tokens exist**, **how text is split**, and therefore
 
 ## 📂 Repository Structure
 
-````
-
-llm-tokenization-deep-dive/
+```
+LLM-tokenization-deep-dive/
 │
 ├── README.md
 │
-├── information/
+├── Information/
 │   ├── 01-introduction.md
 │   ├── 02-why-tokenization-matters.md
 │   ├── 03-token-types-and-vocabulary.md
@@ -79,16 +78,25 @@ llm-tokenization-deep-dive/
 │
 ├── examples/
 │   ├── token-splitting-examples.md
+│   ├── token-splitting.py
 │   ├── multilingual-tokenization.md
+│   ├── multilingual-tokenization.py
 │   ├── code-vs-text-tokenization.md
-│   └── prompt-token-analysis.md
+│   ├── code-vs-text.py
+│   ├── prompt-token-analysis.md
+│   └── prompt_analysis.py
 │
-└── references/
-├── papers.md
-├── blogs.md
-└── tools.md
-
-````
+├── references/
+│   ├── papers.md
+│   ├── blogs.md
+│   └── tools.md
+│
+└── images/
+    ├── image1.png
+    ├── image2.png
+    ├── image3.png
+    └── image4.png
+```
 ## 📘 Documentation Overview
 
 ### 📄 `information/`
