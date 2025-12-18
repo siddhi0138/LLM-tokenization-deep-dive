@@ -200,7 +200,6 @@ Instead of characters or words:
 
 ![LLM Tokenization Pipeline Diagram](../image2.png)
 
-(Additional diagrams are unnecessary once the core concept is understood.)
 
 ---
 
