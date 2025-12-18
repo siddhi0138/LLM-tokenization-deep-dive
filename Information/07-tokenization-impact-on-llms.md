@@ -269,9 +269,6 @@ Tokenization determines:
 
 ---
 
-## 9️⃣ Impact on LLM Behavior Diagram
-
----
 
 ## 🔑 Key Takeaways
 
