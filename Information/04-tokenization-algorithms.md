@@ -198,10 +198,7 @@ Instead of characters or words:
 
 ## 7️⃣ Minimal Diagram: Algorithm Flow (Where It Helps)
 
-```
-![LLM Tokenization Pipeline Diagram](image2.png)
-
-```
+![LLM Tokenization Pipeline Diagram](../image2.png)
 
 (Additional diagrams are unnecessary once the core concept is understood.)
 
