@@ -200,17 +200,7 @@ These embeddings:
 ## 9️⃣ Minimal Diagram: End-to-End Flow
 
 ```
-"Hello world"
-   ↓
-["Hello", "world"]
-   ↓
-[15496, 995]
-   ↓
-[[...], [...]]
-```
-
-(Additional diagrams add little value beyond this point.)
-
+![LLM Tokenization Pipeline Diagram](../image3.png)
 ---
 
 ## 🔎 Important Observations
