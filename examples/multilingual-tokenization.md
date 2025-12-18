@@ -75,6 +75,6 @@ Token efficiency is especially important in multilingual systems.
 
 ## Runnable Demonstration
 
-See `multilingual.py` for a practical demonstration comparing
+See `multilingual-tokenization.py` for a practical demonstration comparing
 token counts across multiple languages using a GPT-style tokenizer.
 
