@@ -199,7 +199,7 @@ Instead of characters or words:
 ## 7️⃣ Minimal Diagram: Algorithm Flow (Where It Helps)
 
 ```
-<img width="1024" height="1024" alt="Gemini_Generated_Image_dj0y5ddj0y5ddj0y" src="https://github.com/user-attachments/assets/86507fa3-7908-4cf7-888b-f6308cba607f" />
+![LLM Tokenization Pipeline Diagram](image2.png)
 
 ```
 
