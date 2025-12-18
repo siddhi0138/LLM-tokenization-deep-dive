@@ -1,8 +1,8 @@
 # Blogs & Technical Articles
 
-This section lists authoritative blogs and learning platforms that provide
-high-quality insights into Large Language Models, tokenization, transformers,
-and modern AI systems.
+This section lists **authoritative blog articles** that provide
+high-quality insights into Large Language Models, tokenization,
+transformers, and modern AI systems.
 
 These resources are useful for both conceptual understanding and staying
 updated with current research and engineering practices.
@@ -11,57 +11,83 @@ updated with current research and engineering practices.
 
 ## OpenAI Blog
 
-The OpenAI Blog publishes articles on:
-- Large Language Models (GPT series)
-- Tokenization and context windows
-- Model behavior, safety, and alignment
-- Scaling laws and system design
+The OpenAI Blog publishes first-hand articles explaining the design,
+behavior, and limitations of state-of-the-art LLMs.
 
-It provides **first-hand explanations** of design decisions behind
-state-of-the-art LLMs.
+### Key Articles
 
-Website: https://openai.com/blog
+- **Learning to Reason with Large Language Models**  
+  Explains how reasoning behavior emerges in LLMs and the limits imposed by training and representation.  
+  https://openai.com/index/learning-to-reason-with-llms/
+
+- **GPT-4 Technical Report (Blog Summary & Context)**  
+  Discusses architectural considerations, scaling, safety, and evaluation.  
+  https://openai.com/research/gpt-4
+
+- **Language Models are Few-Shot Learners**  
+  Foundational article explaining GPT-3 and the emergence of in-context learning.  
+  https://openai.com/research/language-models-are-few-shot-learners
+
+These articles provide **direct insight into model behavior, scaling laws,
+and system-level trade-offs** from the model creators themselves.
 
 ---
 
 ## Hugging Face Blog
 
-The Hugging Face Blog focuses on:
-- Tokenization techniques (BPE, WordPiece, SentencePiece)
-- Transformer architectures
-- Practical NLP and ML engineering
-- Open-source tooling and benchmarks
+The Hugging Face Blog focuses on **practical NLP and ML engineering**, with
+clear explanations of tokenization, transformers, and model internals.
 
-It is especially valuable for understanding **implementation-level details**
-and hands-on experimentation.
+### Key Articles
 
-Website: https://huggingface.co/blog
+- **The Tokenizers Library: Fast, Flexible and Customizable**  
+  Explains how modern subword tokenizers (BPE, WordPiece, Unigram) work in practice.  
+  https://huggingface.co/blog/tokenizers
+
+- **Gotchas in Tokenizer Behavior Every Developer Should Know**  
+  Highlights unexpected tokenizer behaviors that affect model outputs.  
+  https://huggingface.co/blog/tokenizer-gotchas
+
+- **How Transformers Work**  
+  A clear, implementation-oriented explanation of transformer internals.  
+  https://huggingface.co/blog/how-transformers-work
+
+These posts are especially valuable for understanding
+**implementation-level details and real-world pitfalls**.
 
 ---
 
 ## DeepLearning.AI
 
-DeepLearning.AI offers:
-- Conceptual explanations of deep learning and NLP
-- Structured courses on transformers and LLMs
-- Clear intuition behind embeddings, attention, and tokenization
+DeepLearning.AI provides **conceptual clarity and intuition-driven explanations**
+for deep learning and NLP systems.
 
-It is useful for building **strong theoretical foundations** alongside
+### Key Articles
+
+- **What Are Embeddings?**  
+  Intuitive explanation of embeddings and their role in NLP and LLMs.  
+  https://www.deeplearning.ai/resources/what-are-embeddings/
+
+- **How Transformer Models Work**  
+  Breaks down attention, embeddings, and sequence modeling.  
+  https://www.deeplearning.ai/resources/how-transformer-models-work/
+
+- **Generative AI and Large Language Models**  
+  Overview of how modern generative models are trained and used.  
+  https://www.deeplearning.ai/resources/generative-ai-and-large-language-models/
+
+These resources help build **strong theoretical foundations** alongside
 practical understanding.
-
-Website: https://www.deeplearning.ai
 
 ---
 
 ## Why These Blogs Matter
 
-Together, these resources cover:
-- Research motivation
-- System-level design choices
-- Practical engineering trade-offs
-- Ethical and safety considerations
+Together, these articles cover:
+- Research motivation and architectural decisions
+- Tokenization and representation trade-offs
+- System-level design and scaling constraints
+- Safety, alignment, and real-world deployment concerns
 
 They complement academic papers by providing **accessible, real-world
-perspectives** on modern LLM development.
-
-
+perspectives** from researchers and engineers building modern LLM systems.
