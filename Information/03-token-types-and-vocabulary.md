@@ -244,7 +244,7 @@ This mapping is learned during tokenizer training and **never changes** during i
 
 ### Vocabulary Trade-off Diagram
 
-![Vocabulary Trade-off Diagram](../images/Vocabulary Trade-off Diagram.png)
+![Vocabulary Trade-off Diagram](../images/vocabulary-trade-off-diagram.png)
 
 ---
 
