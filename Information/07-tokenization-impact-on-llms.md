@@ -269,6 +269,10 @@ Tokenization determines:
 
 ---
 
+## 9️⃣ Impact on LLM Behavior Diagram
+
+---
+
 ## 🔑 Key Takeaways
 
 * Tokenization directly affects reasoning quality
