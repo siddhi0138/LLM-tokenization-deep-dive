@@ -88,11 +88,6 @@ llm-tokenization-deep-dive/
 ├── blogs.md
 └── tools.md
 
-```
-
----
----
-
 ````
 ## 📘 Documentation Overview
 
@@ -220,6 +215,7 @@ Feel free to:
 If you find this useful, consider starring ⭐ the repo.
 
 ---
+
 
 
 
