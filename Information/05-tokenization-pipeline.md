@@ -199,9 +199,10 @@ These embeddings:
 
 ## 9️⃣ Minimal Diagram: End-to-End Flow
 
-```
 ![LLM Tokenization Pipeline Diagram](../image3.png)
+
 ---
+
 
 ## 🔎 Important Observations
 
