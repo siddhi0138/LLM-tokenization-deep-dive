@@ -1,4 +1,4 @@
-# 🔢 Tokens to Embeddings in Large Language Models
+#  Tokens to Embeddings in Large Language Models
 
 After tokenization, text exists only as a sequence of **integer token IDs**.
 These integers are **purely symbolic** and cannot be processed meaningfully by a neural network.
